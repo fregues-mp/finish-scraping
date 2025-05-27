@@ -1,0 +1,5816 @@
+[
+  {
+    "map": "001",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "002",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "003",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "004",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "005",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "007",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "008",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "012",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "069",
+    "type": "Extreme",
+    "points": 39,
+    "stars": 1
+  },
+  {
+    "map": "0Percent",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "2025",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "24komyu",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "333",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "36_5_buse",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "48komyu",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "4Apfelsaft",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "700-70",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "70s",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "80s",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "90s",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "ACID",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Abyss",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Action",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "ActionHallas",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "After4zuxcess",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Afternight",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Aip-Gores",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "Aip-Hardcores",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "AipFlip",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Aip_X",
+    "type": "Extreme",
+    "points": 88,
+    "stars": 3
+  },
+  {
+    "map": "Aipless",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Aled_to_the_Legend",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "Alone",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Alternate",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Amethyst",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Amol1",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Amol2",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Anagrama",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Angeldust",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Angeldust2",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Angeldust3",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Angry",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Anonymous",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Aqua",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Arcturus",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Arena",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Arise",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Arylz4FJP",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "AscensionToHeaven",
+    "type": "Extreme",
+    "points": 91,
+    "stars": 2
+  },
+  {
+    "map": "Aster",
+    "type": "Extreme",
+    "points": 55,
+    "stars": 2
+  },
+  {
+    "map": "Astralyca",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Asunder",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Atheris4Kaeloo",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Aura",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "Autumn_Sunset",
+    "type": "solo",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Awakening",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "BG13",
+    "type": "solo",
+    "points": 27,
+    "stars": 4
+  },
+  {
+    "map": "BHRX-Competition",
+    "type": "Main",
+    "points": 15,
+    "stars": 2
+  },
+  {
+    "map": "BLACK_SMOKE",
+    "type": "Main",
+    "points": 5,
+    "stars": 1
+  },
+  {
+    "map": "BRUME",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Balada",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Beam",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "BecauseMaybe",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Beyblade",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "BitKoG",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "BitLand",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Bl0od-Dens10",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Bl0od4Anni",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Bl0od4Isi",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Bl0od4Maxe",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Bl0od4Miku",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Bl0od4Waschi",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Bl0od4Zant",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Bl0odDens5",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Bl0odDens7",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Bl0odFlip",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "BlackDoods",
+    "type": "solo",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Black_Widow",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "Blackwolf",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Blasphemy",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "BlueMoon",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "BlueOne",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "BlueSky",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Blueprint",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Boardwalk",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Bomb_World",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Bomb_World_2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Brexamus",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Bubbly1",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "BumM2",
+    "type": "Main",
+    "points": 5,
+    "stars": 2
+  },
+  {
+    "map": "CAKE_SPACE",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "CGores",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "CGores_2",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "CHILL",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "CTF_Gores",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Caminata",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "CandyLand",
+    "type": "Main",
+    "points": 4,
+    "stars": 1
+  },
+  {
+    "map": "CandyWorld",
+    "type": "Extreme",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "CastleMania",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Castlicca1",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "CatLand",
+    "type": "Extreme",
+    "points": 81,
+    "stars": 1
+  },
+  {
+    "map": "CatZone",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Catalan_Aim",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Caverna",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Celeste",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Ceniza",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Cereja",
+    "type": "Easy",
+    "points": 3,
+    "stars": 2
+  },
+  {
+    "map": "ChainsawMan",
+    "type": "Hard",
+    "points": 48,
+    "stars": 3
+  },
+  {
+    "map": "Charover",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "CheatMe",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Checkmate",
+    "type": "Hard",
+    "points": 29,
+    "stars": 1
+  },
+  {
+    "map": "Cherry",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Childs3e",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "ChillerDragon4Jessica",
+    "type": "Main",
+    "points": 19,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores10",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "ChillerDragores11",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores12",
+    "type": "Main",
+    "points": 24,
+    "stars": 3
+  },
+  {
+    "map": "ChillerDragores16",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores18",
+    "type": "Hard",
+    "points": 42,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores20",
+    "type": "Main",
+    "points": 19,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores23",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores24",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "ChillerDragores25",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "ChillerDragores26",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "ChillerDragores4",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "ChillerDragores7",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Choinka",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Circuit",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "Citadel",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "CkiS1",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "CkiS2",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "CkiS4Juicy",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "CkiSNox1",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "CkiS_4_CLow",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CkiS_4_Jimmy",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CkiS_4_Livos",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "CkiS_4_MonkeyDream",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "CkiS_4_Samu",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CkiS_4_effect",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CkiSbzw1",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "CkiSzale",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CkisFlip",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "CkisFlip2",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "CkisTerston1",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Ckis_4_unskilledplayer",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Clean",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "ClosedTime",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "ColdNight",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "ColdNight_twisted",
+    "type": "solo",
+    "points": 0,
+    "stars": 3
+  },
+  {
+    "map": "ColorCube1",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "ColorCube2",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Conchetumare_X",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Conchetumare_Z",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "Connerics",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Cooldown_by_Shyzo",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Cooper1",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Corazon4Drakenmake",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Corazon4Ym2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Corazon4caroLin",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Corazon4himself",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Corazon4maxrider2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Corrupted",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Corrupted_Easy",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Corrupted_Extreme",
+    "type": "Extreme",
+    "points": 87,
+    "stars": 3
+  },
+  {
+    "map": "CrackedMoon",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "CrispEZ",
+    "type": "Easy",
+    "points": 3,
+    "stars": 2
+  },
+  {
+    "map": "Crispy4Yoin",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Crucified",
+    "type": "Extreme",
+    "points": 91,
+    "stars": 2
+  },
+  {
+    "map": "Cyanica",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "D4rn4SForMeow",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "DANCING_FREEZE",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "DM_Gores",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Dandelinux",
+    "type": "Easy",
+    "points": 1,
+    "stars": 1
+  },
+  {
+    "map": "Danil4Syltoox",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "DarkGen",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "DarkKitty",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Dawn",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "DeadlyPath",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Deceived",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Decimation",
+    "type": "solo",
+    "points": 27,
+    "stars": 4
+  },
+  {
+    "map": "DeepMadness",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "DeepSea",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Deluxe",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Demonic",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Descarkent",
+    "type": "Extreme",
+    "points": 70,
+    "stars": 2
+  },
+  {
+    "map": "DesertQuest",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Destin2",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Discipline",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "DoorWays",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Doppel",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Doumed",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "DragonLore",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Drakengores_1",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Dream",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Dreamland",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "DummyPhantom",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "DuskyDrop",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "Dusty_Trip",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Dynasty",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "DyrteeZ",
+    "type": "Easy",
+    "points": 3,
+    "stars": 3
+  },
+  {
+    "map": "E4RG",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "EARFQUAKE",
+    "type": "Extreme",
+    "points": 71,
+    "stars": 1
+  },
+  {
+    "map": "Eating_Hooks",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "Eden",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Encore",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Encore2",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Encore3e",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Encore4e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Entitres",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Ephemeral",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Error404",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Erys",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Escape",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Escape2",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Escenitty4Mano",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Estern1e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Etuor",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Evaporate",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Evening",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "EvilSunset",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "ExTr3",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Exorcism",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FJP030",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "FalltimeSunset",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Fearless",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Feet4Tyrone",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Flamingu",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Flip420",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Flip4Benny",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Flip4Bonny",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Flip4Busted",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Flip4Crack",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Flip4Hakurei",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Flip4Krumplee",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Flip4Samo",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Flip4Skiusep",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Flip4U",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Flip4feat",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "FlipBzw",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FlipBzw2",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FlipChillerDestin",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipDragonYo",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "FlipFeat",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipGores",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "FlipGores2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipHoffi",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp10e",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp11",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp12",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp13",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp14",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp15",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp16",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp17",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp19",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp21",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp23",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp25",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp26",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp27",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp28",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp29",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp2e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp30",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp31",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp32",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp33",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp34",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp35",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp36",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp37",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp38",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp39",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "FlipLipp3e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp4",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp40",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp41",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp5",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp6",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp7",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipLipp8e",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "FlipLipp9e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "FlipNeo4Chile",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Flipfeat2",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "FlippLipp6",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Floatie",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Fly_to_the_Legends",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Fly_to_the_Legends_2",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Fly_to_the_Mix",
+    "type": "solo",
+    "points": 44,
+    "stars": 5
+  },
+  {
+    "map": "FortCrispy",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "FreeMazanitax",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "FreedomDive",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Frostgale_Canyon",
+    "type": "Extreme",
+    "points": 61,
+    "stars": 1
+  },
+  {
+    "map": "Frosty",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Frosty_twisted",
+    "type": "solo",
+    "points": 0,
+    "stars": 3
+  },
+  {
+    "map": "Fuga",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Fujito",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "Furia",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Generic_Purple",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Genex4Drakenmake",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Gesteinskoernchen",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Ghoti",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Gianth",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Gigachad",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Gloaming",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "GoWindy1",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "GoldDigga",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Goldie",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "Goldiensane",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "GoodWENTEE",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "GooreZ",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Gorace",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "Gores-Dream1",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Gores_of_Diamonds",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Gores_of_Spades",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Goresco",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Granulos_De_Roca",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Grayscale",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "GreenMoon",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "GreeniRedFight",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Greeny",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "GreyZ",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Greyfox",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Greylight",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Gridwyn2",
+    "type": "Main",
+    "points": 19,
+    "stars": 2
+  },
+  {
+    "map": "Gridwyn3",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Gridwyn4",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Gridwyn5",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Gridwyn6",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Gridwyn7",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Gridwyn8",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Grieta",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Ground",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "Grusland",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "Grusland2",
+    "type": "Extreme",
+    "points": 70,
+    "stars": 2
+  },
+  {
+    "map": "GuessRocks",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Gundeon",
+    "type": "Extreme",
+    "points": 101,
+    "stars": 3
+  },
+  {
+    "map": "Hailstorm",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Hasselbach",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Hawerdummy",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "HeatUp_by_Shyzo",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Heatwaves",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Heavens_End",
+    "type": "Extreme",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "Hendrix4Xoxo",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Henesys",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "HeyBzw",
+    "type": "Main",
+    "points": 5,
+    "stars": 1
+  },
+  {
+    "map": "HeyTux",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "HeyTux2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "HeyTux3",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "HeyTux4",
+    "type": "Main",
+    "points": 5,
+    "stars": 1
+  },
+  {
+    "map": "HeyTux5",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "HeyTux6",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "HiddenIsland",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Himalaya",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "Himalaya2",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "Himalaya3",
+    "type": "Mod",
+    "points": 39,
+    "stars": 3
+  },
+  {
+    "map": "Hoarfrost",
+    "type": "Extreme",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "Hoarfrost2",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Hoarfrost_twisted",
+    "type": "solo",
+    "points": 0,
+    "stars": 3
+  },
+  {
+    "map": "Honeycomb",
+    "type": "Hard",
+    "points": 29,
+    "stars": 2
+  },
+  {
+    "map": "Humik4Alea",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "IceBox",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Icebreaker",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "Icicle",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Iloveyoumoreeachtimeyoudie",
+    "type": "Extreme",
+    "points": 98,
+    "stars": 3
+  },
+  {
+    "map": "Im_Climb5",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Im_Climb_2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Imaginary_Voyage",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "ImagineThePain",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "ImpelDown",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Impossible",
+    "type": "Insane",
+    "points": 47,
+    "stars": 2
+  },
+  {
+    "map": "Impossible_2",
+    "type": "Extreme",
+    "points": 91,
+    "stars": 2
+  },
+  {
+    "map": "Improvise",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Inception",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Infinished",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "InkTerston1",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Innercise",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "Insaipteleres",
+    "type": "solo",
+    "points": 44,
+    "stars": 5
+  },
+  {
+    "map": "Insane",
+    "type": "Extreme",
+    "points": 71,
+    "stars": 1
+  },
+  {
+    "map": "Insanious",
+    "type": "Extreme",
+    "points": 71,
+    "stars": 1
+  },
+  {
+    "map": "Insidious",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Interstellar",
+    "type": "Hard",
+    "points": 29,
+    "stars": 2
+  },
+  {
+    "map": "IntoTheFog",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Jauria",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Jebeto-Gores",
+    "type": "Mod",
+    "points": 4,
+    "stars": 1
+  },
+  {
+    "map": "JoKGores",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Jore4NANAMAR",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "Jungle_Safari",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "JustCommunity",
+    "type": "Insane",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "JustTeE4JustNoob",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Just_Gores7",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Just_Gores8",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Just_Gores9",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Just_TeE3",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Just_Team1",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Kawk_Doo",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Kero-Gores1",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Kero-Gores3",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Kero-Gores4",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Kero-Gores5",
+    "type": "Main",
+    "points": 8,
+    "stars": 1
+  },
+  {
+    "map": "Kero-Gores6",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Kero-Gores7",
+    "type": "Main",
+    "points": 8,
+    "stars": 1
+  },
+  {
+    "map": "Kero4QshaR",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Kero4cooper",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "KeroDummy",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Kickmix",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "King_of_Mountains",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Knight1e",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Knutz1",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "KoGHub",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "KogWatch",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Koggers",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Kogritos",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "KrumpleeLand",
+    "type": "Extreme",
+    "points": 70,
+    "stars": 2
+  },
+  {
+    "map": "KrumpleePark",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "LUNATIC",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Lair",
+    "type": "solo",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "LamaBro",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "LikeAFlo",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Lilac",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "Lionheart",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "LittleCandles",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "LookAtMe",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Lord_of_the_Rings",
+    "type": "Extreme",
+    "points": 127,
+    "stars": 3
+  },
+  {
+    "map": "LuLu-Gores",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "MATTE",
+    "type": "Main",
+    "points": 5,
+    "stars": 1
+  },
+  {
+    "map": "MOJITO",
+    "type": "Insane",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "MTr",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Madriguera",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Magikarp",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Mainiac",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Marceline",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "Master",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Mechanica",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Mechanica_II",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Meliogor",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "Meliogor2",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Metal",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Metal2",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Micksee",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Miiep4Miezii",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Miku4Lama",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Miku4MonkeyDream",
+    "type": "Hard",
+    "points": 24,
+    "stars": 1
+  },
+  {
+    "map": "MikuEasy",
+    "type": "Easy",
+    "points": 4,
+    "stars": 2
+  },
+  {
+    "map": "MikuGores",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Milkyway",
+    "type": "solo",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Mimixi",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "MinTurquoise",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Mine",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Minecraft",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Miniature_Fantasy",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "Minimalist1",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Minimalist2",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Mintfresh",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Mintfresh_II",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Mixi1",
+    "type": "Insane",
+    "points": 47,
+    "stars": 2
+  },
+  {
+    "map": "Mixi2",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Mixi3",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4Anni",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Mixi4Denkstdu",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4Hawerer",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Mixi4KKUBA102",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Mixi4Karolina",
+    "type": "Hard",
+    "points": 48,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4Migget",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4Miku",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4QshaR",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Mixi4RaiNy",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4Rouz",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Mixi4Zonsa",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "Mixi4isen",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4jkaem",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "Mixi4kamillentee",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Mixi5",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Mixi6",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Mixtux",
+    "type": "solo",
+    "points": 27,
+    "stars": 4
+  },
+  {
+    "map": "Monochromik",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Monstro",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "MoonFlip",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "MorfeusGrydwin",
+    "type": "Hard",
+    "points": 9,
+    "stars": 1
+  },
+  {
+    "map": "Morrow",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "MqxTnul",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Muay_Thai",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "MyStery",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "N4B",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "N4D",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "N4M",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "N4T",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "NareemKero",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Naruto",
+    "type": "Insane",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "NealsonCkiS1",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "NealsonCkiS5",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "NealsonCkiS8",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "NealsonSpeedy",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Nertato4Gummi",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Neverland",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "NightSky",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Nighthawk",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Nightingale",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "NoWENTEE",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Noctulo",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Noe1",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Nox1",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Nox2",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Nox4Flo",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Nox4Monkey",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "NoxFlip",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "NoxiBoxi",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Nujabes_Gores",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Nyanto4FlameKing",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Nyanto4Graves",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Nyanto4Mamax",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Nyanto4Xola",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "NyantoDummy",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "NyantoFT",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "NyantoFY",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Oaklands",
+    "type": "solo",
+    "points": 3,
+    "stars": 1
+  },
+  {
+    "map": "Oasis",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Octagores",
+    "type": "Extreme",
+    "points": 61,
+    "stars": 1
+  },
+  {
+    "map": "OldSchool2",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Oldschool",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Oldschool3",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Omesurion4Luckuy21",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Omesurion4Shayze",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Omesurion4cagent",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Omezurion4Neo",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Omezurion4escenitty",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Ominous",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Operaenna",
+    "type": "Insane",
+    "points": 64,
+    "stars": 2
+  },
+  {
+    "map": "Otherworld",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Otherworldly_Way",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "OutOfTheSky",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "Outer",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Overclocked",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "PDW",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "Panik-Gores",
+    "type": "Main",
+    "points": 6,
+    "stars": 3
+  },
+  {
+    "map": "Panik4Shero",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Panther",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Paradise_Island",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Paris",
+    "type": "Hard",
+    "points": 11,
+    "stars": 1
+  },
+  {
+    "map": "PartlyCloudy",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Pastelirycs",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "PatrickStar",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "PeaceDeath",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Peaceful",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Pepino",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Peuma",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Phoenix",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Piece_of_Sheet",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Pillars",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Pinkdream",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Planetux",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "Plumeria",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "PoiPoi",
+    "type": "solo",
+    "points": 44,
+    "stars": 5
+  },
+  {
+    "map": "Pokemon_Gen1",
+    "type": "Hard",
+    "points": 42,
+    "stars": 2
+  },
+  {
+    "map": "Polar",
+    "type": "Hard",
+    "points": 35,
+    "stars": 2
+  },
+  {
+    "map": "Pop",
+    "type": "Main",
+    "points": 5,
+    "stars": 2
+  },
+  {
+    "map": "Pop2",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Pop3e",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Possession",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Pradera",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Princess_of_Darkness",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "Protokol1",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Protokol3",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Protokol4",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Pukki_World",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "Pup1e",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Pup2",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Pup3",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Pup4",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Pup5e",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "PupRed1e",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "PurpleStardust",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Q-Adventure",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Q-Aip-Gores",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Q-Aip-Gores2",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Aip-Gores3",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Q-Aip-Gores4",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Aip-Gores5",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Aip-Gores6",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Q-Aip-Gores7",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Aip-Gores8",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Dummy-Drag1",
+    "type": "Mod",
+    "points": 4,
+    "stars": 1
+  },
+  {
+    "map": "Q-Dummy-Drag2",
+    "type": "Mod",
+    "points": 4,
+    "stars": 1
+  },
+  {
+    "map": "Q-Easy1",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "Q-Easy2",
+    "type": "Easy",
+    "points": 4,
+    "stars": 3
+  },
+  {
+    "map": "Q-Gores-Unhook",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-Gores3",
+    "type": "Main",
+    "points": 5,
+    "stars": 1
+  },
+  {
+    "map": "Q-Hook",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Q-KoG-1",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Q-KoG-2",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Q-KoG-3",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Q-KoG-4",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Q-KoG-5",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Q-KoG-Portal",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Q-Story",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Q-move",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Q-tele",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "QF-Competition",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "QF-Competition2",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "QF-Gores",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "QM-Gores",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "QuickOne",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "R_dventure",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Race_69",
+    "type": "Extreme",
+    "points": 61,
+    "stars": 1
+  },
+  {
+    "map": "Radioactive",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "RaiMee",
+    "type": "Hard",
+    "points": 24,
+    "stars": 1
+  },
+  {
+    "map": "RaiNy10",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "RaiNy4Ink",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "RaiNyMore",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "RaiNyMore2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "RaiNyOD",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "RainbowRoads",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Ready4Delete",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Real4Taco",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "RedCastle",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "RedCastle2",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "RedCastle3",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "RedMoon",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Rei4Omesurion",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Rei4Top",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Rei_N_Sd030",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Reja",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Reja2",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Reminder",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Revenge",
+    "type": "solo",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Reverberate",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "Ring_of_Gores_III",
+    "type": "Insane",
+    "points": 73,
+    "stars": 3
+  },
+  {
+    "map": "RingofGores",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "RingofGores2",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "Rosa",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Rosa2",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Route",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Rox",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Rubnitos",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Ruin",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "RuskiFlip",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "RyuGore1",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "RyuGore2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "RyuGore3",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "RyuGore4",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "RyuGore5",
+    "type": "Insane",
+    "points": 27,
+    "stars": 2
+  },
+  {
+    "map": "Ryugores_6",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "SEMI",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "SKILL",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "SKILLS",
+    "type": "Hard",
+    "points": 18,
+    "stars": 3
+  },
+  {
+    "map": "SPUDIMAN",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "SUPSANE",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Sabled_Sun_1",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Sacrefount",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "Sanada",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Sanada2",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Sandblast",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Sandy_Cave",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Sapphire",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Saturation",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Savannux",
+    "type": "Easy",
+    "points": 1,
+    "stars": 1
+  },
+  {
+    "map": "Scary",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Screwdriver",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "Selva",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Serenitee",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Shadow_Gores",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Shadow_Spring",
+    "type": "Mod",
+    "points": 14,
+    "stars": 3
+  },
+  {
+    "map": "Shattered",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Sheldor",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Shorty",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Shyzo4Cecily",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Shyzo4Sasukey",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Shyzo4TS",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Shyzo4TheCrew",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "ShyzoEZ-1",
+    "type": "Easy",
+    "points": 3,
+    "stars": 2
+  },
+  {
+    "map": "Simplistic",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Simplistic2",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Simply_Nine",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Sky_Dungeon",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Skyground",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "SkyrelOne",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "SkyrelTwo",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Slave_of_evil",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "SnailChan_Adventure",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Snakepit",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "SnipeZonsa",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Snow_Sleep",
+    "type": "Hard",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "SoFall",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "SolarSystem",
+    "type": "Hard",
+    "points": 29,
+    "stars": 2
+  },
+  {
+    "map": "Sonder",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "SpaceJump",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "SpacedOut",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Spirits_Path",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "Spitfire",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "Springlobe",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Square_of_Gods",
+    "type": "Extreme",
+    "points": 127,
+    "stars": 3
+  },
+  {
+    "map": "Square_of_Gores",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "Square_of_Gores_2",
+    "type": "Insane",
+    "points": 73,
+    "stars": 3
+  },
+  {
+    "map": "Square_of_Gores_3",
+    "type": "Extreme",
+    "points": 115,
+    "stars": 3
+  },
+  {
+    "map": "Square_of_Gores_4",
+    "type": "solo",
+    "points": 44,
+    "stars": 5
+  },
+  {
+    "map": "Ssor4Kleas",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Ssor4Minori",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Ssor4Misse",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Ssor4Toji",
+    "type": "Extreme",
+    "points": 54,
+    "stars": 1
+  },
+  {
+    "map": "Ssor4Valouuu",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Ssor4badoumed",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "StargazerFullOne",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Stars",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Stonesss",
+    "type": "solo",
+    "points": 3,
+    "stars": 1
+  },
+  {
+    "map": "Stripes",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "SummerNights",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Suna_Tokei",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "Sunshine",
+    "type": "Easy",
+    "points": 1,
+    "stars": 1
+  },
+  {
+    "map": "Sura",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Synergy",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Synth",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Syre",
+    "type": "Extreme",
+    "points": 91,
+    "stars": 2
+  },
+  {
+    "map": "TRILOG1A",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Tae",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Teelands",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Teelands_2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Teelands_3",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Tenzet",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Ternion",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Terran",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "Terston1",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Terston2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Terston3",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Terston4",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Terston4Bzw",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Terston4Ink",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Terston4Tux",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Terston5",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "Terston6",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Terston7",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "TerstonBzw",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "TheCube",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "TheForest",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "TheGauntlet",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "TheGauntlet2",
+    "type": "Extreme",
+    "points": 81,
+    "stars": 1
+  },
+  {
+    "map": "The_Cube_2",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "The_End",
+    "type": "Extreme",
+    "points": 58,
+    "stars": 3
+  },
+  {
+    "map": "The_Ghost_Train",
+    "type": "Hard",
+    "points": 41,
+    "stars": 3
+  },
+  {
+    "map": "The_Pyra",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Themed4RegKecske",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "ThisIsSnipeZ",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Through_the_Dust",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "TimeWarp",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "TomTom",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "TomTom2",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "TomTom3",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "TomTom4",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "TomTom5",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "TomTom6",
+    "type": "Insane",
+    "points": 47,
+    "stars": 2
+  },
+  {
+    "map": "TomTom7",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Tomahawk",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Tookies",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "Topaz",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Toxigon",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Toxina",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "Toxina2",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "TreeZ",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Treesmas",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Trooper",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Tux4Rookies",
+    "type": "Easy",
+    "points": 5,
+    "stars": 3
+  },
+  {
+    "map": "Tuxcana",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Twike4Schizophrenia",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "TwistmasAdventure",
+    "type": "Hard",
+    "points": 29,
+    "stars": 2
+  },
+  {
+    "map": "Twofive",
+    "type": "solo",
+    "points": 27,
+    "stars": 4
+  },
+  {
+    "map": "Tyrone4Frozen",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "UNDR",
+    "type": "Hard",
+    "points": 14,
+    "stars": 2
+  },
+  {
+    "map": "Uk4",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "solo4Grass",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "solo4vED",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Unique",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "UnlockTeam",
+    "type": "Mod",
+    "points": 22,
+    "stars": 4
+  },
+  {
+    "map": "VampEz1",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "Vampyrali2",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Vampyrali3",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Vigorously",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "WaLu",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "WarmUp_by_Shyzo",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "Warto4Vappy",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Waschlappen",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Waterfall",
+    "type": "Main",
+    "points": 24,
+    "stars": 3
+  },
+  {
+    "map": "Wats4Forbidden",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "WhatRemains",
+    "type": "Insane",
+    "points": 38,
+    "stars": 3
+  },
+  {
+    "map": "Whispering",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "White",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "WhiteMoon",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Whitedom",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "Wicked",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Wind_Vane",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Winter_rain",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "Winter_rain_twisted",
+    "type": "solo",
+    "points": 0,
+    "stars": 3
+  },
+  {
+    "map": "Wintux",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Wonderfrost",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Xerceal",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "XmasAdventure",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "XmasMove",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Xoxo4Hendrix",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Xyz_gores",
+    "type": "Mod",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "YellowMoon",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Yo1",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "Yo10",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Yo11",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Yo12",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "Yo13",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Yo2",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Yo3",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Yo4",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Yo4Fast",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "Yo4Lama",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "Yo4Lama2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Yo4WojMen",
+    "type": "Main",
+    "points": 6,
+    "stars": 3
+  },
+  {
+    "map": "Yo5",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Yo6",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "Yo7",
+    "type": "Main",
+    "points": 15,
+    "stars": 2
+  },
+  {
+    "map": "Yo8",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "Yo9",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "YoAirm4x",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "YoCkiS5",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "YoCkis4",
+    "type": "Main",
+    "points": 24,
+    "stars": 3
+  },
+  {
+    "map": "YoJustTeE",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "YoJustTee2",
+    "type": "Main",
+    "points": 20,
+    "stars": 3
+  },
+  {
+    "map": "Yoc4crunchY",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "Yoc4mpampas",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "Yoin4Crispy",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "Yoin4Tester",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Yuslo4Nizzza",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "Yuslo4Shoyyy",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "YusloCkis1",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "ZTOY",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "ZZZ",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "ZeroSeven",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "Zerox4Busted",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "Zerox4Nox",
+    "type": "Main",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "Zonsa4Luckuy21",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "Zonsa4Mixi",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "Zonsa4Tyrone",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "Zosna",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "Zubr",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "afOatmeal",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "afkomyu",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "asnoZ",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "bPls",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "bazawa",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "blim4zale",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "blim_Gores",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "bloodstone",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "blue_space",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "bubbles",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "bzolow",
+    "type": "solo",
+    "points": 44,
+    "stars": 5
+  },
+  {
+    "map": "bzonsw",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "bzw1",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "bzw2",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "bzw3",
+    "type": "Insane",
+    "points": 35,
+    "stars": 1
+  },
+  {
+    "map": "bzw4",
+    "type": "Insane",
+    "points": 41,
+    "stars": 1
+  },
+  {
+    "map": "bzw4Treefly",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "bzw4chile",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "bzw4miep",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "bzw4tux",
+    "type": "Main",
+    "points": 8,
+    "stars": 3
+  },
+  {
+    "map": "bzw5",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "bzw7",
+    "type": "Insane",
+    "points": 54,
+    "stars": 3
+  },
+  {
+    "map": "bzw8",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "cake_reef",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "cake_strawberry",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "cake_winter",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "calm",
+    "type": "Insane",
+    "points": 47,
+    "stars": 2
+  },
+  {
+    "map": "capon",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "cave",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "corgores2",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "cursed",
+    "type": "Insane",
+    "points": 63,
+    "stars": 3
+  },
+  {
+    "map": "cyber",
+    "type": "Hard",
+    "points": 41,
+    "stars": 3
+  },
+  {
+    "map": "dabushes",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "dandadan",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "dark",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "darkforest",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "dindila",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "dionle",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "dragonexe",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "elnoid4FJP",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "feat4flip",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "feat4juicy",
+    "type": "Hard",
+    "points": 34,
+    "stars": 3
+  },
+  {
+    "map": "feat4neo",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "featality",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "featuristic",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "fik4Enyltyn",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "fik4Isi",
+    "type": "Easy",
+    "points": 2,
+    "stars": 2
+  },
+  {
+    "map": "fik4Kicker",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "fik4LemonTee",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "fik4SubLime",
+    "type": "Main",
+    "points": 4,
+    "stars": 1
+  },
+  {
+    "map": "fik4bzw",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "fik4imp",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "fik4snail",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "fikbzw",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "fikmesan",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "fikvie",
+    "type": "Main",
+    "points": 12,
+    "stars": 1
+  },
+  {
+    "map": "fokcores",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "fokkonaut",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "ghosttown",
+    "type": "Insane",
+    "points": 36,
+    "stars": 2
+  },
+  {
+    "map": "goatschool",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "goryx",
+    "type": "Hard",
+    "points": 29,
+    "stars": 3
+  },
+  {
+    "map": "hanh_phuc",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "himinn",
+    "type": "Hard",
+    "points": 20,
+    "stars": 1
+  },
+  {
+    "map": "humik",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "iCe-Ice",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "iWebCkis1",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "ikiedulover",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "ilyzaelle",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "impton",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "infazci",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "insomyu",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "justfeat",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "komyuSRT",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "konwic4protokol",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "legendary",
+    "type": "Insane",
+    "points": 47,
+    "stars": 2
+  },
+  {
+    "map": "light",
+    "type": "Insane",
+    "points": 32,
+    "stars": 2
+  },
+  {
+    "map": "lovender",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "meew1",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "meew2",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "meew3",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "meew4",
+    "type": "Hard",
+    "points": 22,
+    "stars": 3
+  },
+  {
+    "map": "melange",
+    "type": "solo",
+    "points": 3,
+    "stars": 1
+  },
+  {
+    "map": "melisawa",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "mellow",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "midnight",
+    "type": "Insane",
+    "points": 27,
+    "stars": 1
+  },
+  {
+    "map": "mrs_motivation",
+    "type": "Mod",
+    "points": 32,
+    "stars": 5
+  },
+  {
+    "map": "nevergores3",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "nevergores4",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "oen1",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "oen2",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "ozurdilerim_",
+    "type": "Extreme",
+    "points": 44,
+    "stars": 1
+  },
+  {
+    "map": "planetse",
+    "type": "Insane",
+    "points": 40,
+    "stars": 2
+  },
+  {
+    "map": "pressure",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "promyu",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "protokolbzw",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "purple_space",
+    "type": "Hard",
+    "points": 24,
+    "stars": 2
+  },
+  {
+    "map": "rawensawa",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "rawensawa4chang",
+    "type": "Extreme",
+    "points": 48,
+    "stars": 1
+  },
+  {
+    "map": "rawensawa4wade",
+    "type": "Insane",
+    "points": 30,
+    "stars": 1
+  },
+  {
+    "map": "red",
+    "type": "solo",
+    "points": 6,
+    "stars": 2
+  },
+  {
+    "map": "rey4benz",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "rey4rey",
+    "type": "Insane",
+    "points": 42,
+    "stars": 3
+  },
+  {
+    "map": "rubble",
+    "type": "Main",
+    "points": 6,
+    "stars": 1
+  },
+  {
+    "map": "sakura",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "samo-FWYS1e",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "samo-FWYS2e",
+    "type": "Main",
+    "points": 16,
+    "stars": 3
+  },
+  {
+    "map": "sd004_NIghtLIfe",
+    "type": "Main",
+    "points": 12,
+    "stars": 2
+  },
+  {
+    "map": "sd005",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "sharkexe",
+    "type": "Hard",
+    "points": 18,
+    "stars": 2
+  },
+  {
+    "map": "shiro1",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "shiro2",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "shishi4minyxe",
+    "type": "Hard",
+    "points": 21,
+    "stars": 2
+  },
+  {
+    "map": "splith",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "subdue",
+    "type": "Easy",
+    "points": 4,
+    "stars": 2
+  },
+  {
+    "map": "themixi",
+    "type": "Insane",
+    "points": 47,
+    "stars": 3
+  },
+  {
+    "map": "tyrone4fretardo",
+    "type": "Main",
+    "points": 11,
+    "stars": 3
+  },
+  {
+    "map": "uk1",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "uk2",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "uk3",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "urskog",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "xRyperion",
+    "type": "Main",
+    "points": 8,
+    "stars": 2
+  },
+  {
+    "map": "xRyperionGecko",
+    "type": "Main",
+    "points": 10,
+    "stars": 2
+  },
+  {
+    "map": "za1e",
+    "type": "Hard",
+    "points": 16,
+    "stars": 1
+  },
+  {
+    "map": "zale4blim",
+    "type": "Hard",
+    "points": 25,
+    "stars": 3
+  },
+  {
+    "map": "zale4coany",
+    "type": "Hard",
+    "points": 14,
+    "stars": 1
+  },
+  {
+    "map": "ziinox",
+    "type": "Extreme",
+    "points": 101,
+    "stars": 3
+  },
+  {
+    "map": "zonsa_zonsa_zonsa",
+    "type": "Main",
+    "points": 13,
+    "stars": 3
+  },
+  {
+    "map": "zzzz",
+    "type": "Hard",
+    "points": 42,
+    "stars": 2
+  }
+]

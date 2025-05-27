@@ -1,0 +1,15 @@
+{
+  "name": "finish-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "fregues",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  }
+}
