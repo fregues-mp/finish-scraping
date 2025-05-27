@@ -5,7 +5,7 @@ Script to collect player information from the **kog.tw** website and save the da
 ---
 
 ```bash
-npm install puppeteer
+npm i
 ```
 
 ```bash
