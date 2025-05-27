@@ -15,9 +15,11 @@ node script.js
 ### Important
 
 * If the player **does not exist** or the site takes too long to respond, the script will automatically terminate.
-This may happen during the first few runs of the script; try increasing the timeout if the error persists.
+This may happen during the first few runs of the script try increasing the timeout if the error persists.
 
-* With newest maps may dont work
+* With newest maps may dont work.
+
+* Just take the newest races.
 
 ### Contribution
 
@@ -28,3 +30,7 @@ I used [dnnr1](https://github.com/dnnr1) [kog-scrapping](https://github.com/dnnr
 -------
 
 Feel free to contribute! Open an *issue* or submit a *pull request*.
+
+### License
+
+This project is licensed under the [MIT License](https://github.com/fregues-mp/finish-scraping/blob/main/LICENSE).
